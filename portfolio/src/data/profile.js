@@ -1,0 +1,30 @@
+export const profile = {
+  name: "Vaibhav Agrawal",
+  title: "Full Stack Developer",
+  roles: [
+    "Full Stack Developer",
+    "AI/ML Engineer",
+    "MERN Stack Developer",
+    "LangChain Developer",
+    "Backend Engineer",
+  ],
+  tagline: "Building intelligent full-stack systems that scale.",
+  bio: "I'm a Full Stack Developer and AI Engineer with a passion for building production-ready applications that solve real-world problems. From MERN stack platforms to multi-agent AI workflows, I engineer systems that are fast, secure, and intelligent.",
+  email: "vaibhavaagrawal420@gmail.com",
+  phone: "+91 9720920155",
+  location: "Greater Noida, India",
+  avatar: "/images/profile.jpg",
+  resumeUrl: "/resume.pdf",
+  // TODO: Replace with actual deployed URLs
+  github: "https://github.com/vaibhavagrawal420",
+  linkedin: "https://linkedin.com/in/vaibhavagrawal420",
+  leetcode: "https://leetcode.com/vaibhavagrawal420",
+  gfg: "https://geeksforgeeks.org/user/vaibhavagrawal420",
+  hackerrank: "https://hackerrank.com/vaibhavagrawal420",
+  stats: {
+    projects: 2,
+    skills: 30,
+    certificates: 4,
+    dsaProblems: "600+",
+  },
+}
