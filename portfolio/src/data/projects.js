@@ -82,7 +82,7 @@ export const projects = [
       "/images/projects/snacknow-cover.png",
       // TODO: Add more screenshots
     ],
-    github: "https://github.com/vaibhavagrawal420/SanckNow",
+    github: "https://github.com/vaibhavagrawal420/SnackNow",
     liveDemo: null, // TODO: Add live demo URL if available
     status: "Completed",
     year: "2024",
