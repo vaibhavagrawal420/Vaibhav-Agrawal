@@ -50,7 +50,7 @@ const platforms = [
   },
   {
     name: 'HackerRank',
-    username: 'vaibhavagrawal420',
+    username: 'vaibhavbansalre1',
     url: profile.hackerrank,
     icon: <SiHackerrank size={32} />,
     color: '#00EA64',
