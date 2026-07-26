@@ -29,9 +29,9 @@ export const socialLinks = [
   },
   {
     name: "HackerRank",
-    url: "https://hackerrank.com/vaibhavagrawal420",
+    url: "https://hackerrank.com/vaibhavbansalre1",
     icon: "SiHackerrank",
     color: "#00EA64",
-    username: "vaibhavagrawal420",
+    username: "vaibhavbansalre1",
   },
 ]
