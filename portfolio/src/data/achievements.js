@@ -40,5 +40,5 @@ export const achievements = [
 export const codingStats = [
   { platform: "LeetCode", username: "vaibhavagrawal420", problems: "300+", rating: null, badges: "15+", url: "https://leetcode.com/vaibhavagrawal420" },
   { platform: "GeeksforGeeks", username: "vaibhavagrawal420", problems: "300+", rating: null, badges: null, url: "https://geeksforgeeks.org/user/vaibhavagrawal420" },
-  { platform: "HackerRank", username: "vaibhavagrawal420", problems: null, rating: "5★ C++", badges: null, url: "https://hackerrank.com/vaibhavagrawal420" },
+  { platform: "HackerRank", username: "vaibhavbansalre1", problems: null, rating: "5★ C++", badges: null, url: "https://hackerrank.com/vaibhavbansalre1" },
 ]
